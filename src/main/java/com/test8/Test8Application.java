@@ -18,6 +18,7 @@ public class Test8Application {
 		float m=10.3f;
 		char ch='x';
 		char i='n';
+		String m="manish";
 		SpringApplication.run(Test8Application.class, args);
 	}
 
