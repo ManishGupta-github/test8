@@ -16,6 +16,7 @@ public class Test8Application {
 		double z=10.3f;
 		boolean isPresent=false;
 		float m=10.3f;
+		char ch='x';
 		
 		SpringApplication.run(Test8Application.class, args);
 	}
