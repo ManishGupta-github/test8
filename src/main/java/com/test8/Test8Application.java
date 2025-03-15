@@ -17,7 +17,7 @@ public class Test8Application {
 		boolean isPresent=false;
 		float m=10.3f;
 		char ch='x';
-		
+		char i='n';
 		SpringApplication.run(Test8Application.class, args);
 	}
 
